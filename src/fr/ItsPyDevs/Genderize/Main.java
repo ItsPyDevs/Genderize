@@ -21,6 +21,7 @@ public class Main {
 		int result_label_height = 600;
 		int result_label_width = 100;
 		
+		
 		int bouton_x = 455;
 		int bouton_y = 100;
 		
